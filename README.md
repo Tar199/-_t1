@@ -8,4 +8,3 @@ Although the Scikit-learn library provides a dataset for iris flower classificat
 download the same dataset from here for the task of iris flower classification with Machine
 Learning. 
 
-DOWNLOAD DATASET FROM HERE
